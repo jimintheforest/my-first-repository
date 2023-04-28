@@ -27,5 +27,3 @@ def add_transaction():
 add_transaction()
 
 print(transaction_list)
-
-#test commit
